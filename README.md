@@ -16,4 +16,4 @@ Small app that serves for analysis and visualization or most-demanded technologi
 6. After completion, run all cells in analysis.ipynb
 
 ## DEMO
-![Image](demo/demo-all.png)
+![Image](demo/demo-all.jpg)
