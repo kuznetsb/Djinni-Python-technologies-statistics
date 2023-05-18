@@ -13,7 +13,7 @@ Small app that serves for analysis and visualization or most-demanded technologi
 3. Activate the virtual environment using ```source env/bin/activate(on macOS)``` Or ```env\Scripts\activate (on Windows)```.
 4. Install the required dependencies using ```pip install -r requirements.txt```.
 5. Run ```python parse.py```.
-6. After completion, run ```jupyter nbconvert --execute --inplace analysis.ipynb```
+6. After completion, run all cells in analysis.ipynb
 
 ## DEMO
 ![Image](demo/demo-all.png)
